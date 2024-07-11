@@ -11,7 +11,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="Website" />
 	<meta name="keywords" content="template responsive" />
-	<meta name="author" content="FreeHTML5.co" />
+	<meta name="author" content="HTML.co" />
 
   
 
