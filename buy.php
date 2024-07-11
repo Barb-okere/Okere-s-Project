@@ -120,7 +120,7 @@
 							<div class="price-status">
 		                 	<span class="price">$200,000,000</span>
 		               </div>
-		               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque dicta magni amet atque doloremque velit unde adipisci omnis hic quaerat.</p>
+		               <p>At 2000 per month experience a lavish stay.</p>
 	            	</div>
 	            	<p class="fh5co-property-specification">
 	            		<span><strong>3500</strong> Sq Ft</span>  <span><strong>3</strong> Beds</span>  <span><strong>3.5</strong> Baths</span>  <span><strong>2</strong> Garages</span>
