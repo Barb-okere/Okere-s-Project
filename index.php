@@ -11,7 +11,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="Free HTML5 Website Template by FreeHTML5.co" />
 	<meta name="keywords" content="free website templates, free html5, free template, free bootstrap, free website template, html5, css3, mobile first, responsive" />
-	<meta name="author" content="FreeHTML5.co" />
+	<meta name="author" content="HTML.co" />
 
 
 
@@ -87,7 +87,7 @@
 		   						<div class="price-status">
                              	<span class="price">$540,000 <a href="#" class="tag">For Sale</a></span>
 	                        </div>
-	                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque dicta magni amet atque doloremque velit unde adipisci omnis hic quaerat.</p>
+	                        <p>House info</p>
 
 	                        <p class="fh5co-property-specification">
                         		<span><strong>3500</strong> Sq Ft</span>  <span><strong>3</strong> Beds</span>  <span><strong>3.5</strong> Baths</span>  <span><strong>2</strong> Garages</span>
